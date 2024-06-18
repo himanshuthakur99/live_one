@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd6c5e3f.css",
+    "main.js": "/static/js/main.b35fa6ca.js",
+    "static/js/453.b05d33bc.chunk.js": "/static/js/453.b05d33bc.chunk.js",
+    "static/media/Metromony.png": "/static/media/Metromony.ac2aa70bd700601708cb.png",
+    "static/media/List-match.png": "/static/media/List-match.1ab07b02dd9ef9867d15.png",
+    "index.html": "/index.html",
+    "main.bd6c5e3f.css.map": "/static/css/main.bd6c5e3f.css.map",
+    "main.b35fa6ca.js.map": "/static/js/main.b35fa6ca.js.map",
+    "453.b05d33bc.chunk.js.map": "/static/js/453.b05d33bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd6c5e3f.css",
+    "static/js/main.b35fa6ca.js"
+  ]
+}
